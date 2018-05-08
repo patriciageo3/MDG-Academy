@@ -11,11 +11,11 @@ This website was created with the help of:
 * jQuery
 * Google Forms
 
-## Installation
+## Live Demo
 
-No installation is needed, the package has everything it needs.
+To see the live demo, please [click here](https://patriciageo3.github.io/MDG-Academy/).
 
-## Contributors
+## Authors
 
 Patricia Georgescu
 
@@ -24,6 +24,6 @@ Patricia Georgescu
 This is a website designed for example purposes, following the Maker Based course I attended.
 I do not own/ copyright any of the information shown.
 
-## Website Preview
+## Quick Website Preview
 
 ![Alt text](images/websitePreview.JPG?raw=true "Website Preview")
